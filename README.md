@@ -46,7 +46,8 @@ This incident demonstrates:
    - Alert tuning for high-frequency/low-risk events
 4. **Escalation**: Reported to SOC L2 for IOC correlation
 
-
+### WHOIS Analysis: 46.101.82.74 
+![WHOIS result](assets/WHOIS.png)
 
 ## MITRE ATT&CK Mapping
 | Technique                                                    | Purpose              |
